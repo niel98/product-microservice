@@ -33,6 +33,7 @@ $ npm install
 ```
 
 ## Running the app
+Provide the RabbitMQ uri string in the .env file.
 
 ```bash
 # development
