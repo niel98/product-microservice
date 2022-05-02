@@ -25,7 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+The product microservice for the food order delivery start up.
 ## Installation
 
 ```bash
